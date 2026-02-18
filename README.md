@@ -15,7 +15,7 @@ Medallion Architecture (Bronze → Silver → Gold → Insight)
 
 ETL & data quality enforcement
 
-🏗 Project Architecture
+Project Architecture
 Bronze (raw)  →  Silver (cleaned + enriched)  →  Gold (aggregated)  →  Insight (SQL views)
 
 
